@@ -1,0 +1,7 @@
+/target
+
+# Secrets – never commit the API key
+.env
+
+# Local API cache
+.cache/
